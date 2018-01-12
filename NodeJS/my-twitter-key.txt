@@ -1,0 +1,4 @@
+consumer_key: 'hvZZmpkgJVnxWUgt841RQQA4q',
+        consumer_secret: 'nIMwAEY3Qtqa8ovir8omT5MCk0n8rP5x8LDAF3YND27q4JS1s0',
+        access_token: '159885019-wNiXSMGpTwGHS2WvqWNIvFTflCfAsCMAxwXJY3ar',
+        access_token_secret: 'eDMLcmGbY2PLvKtGNBordYNG37F5EePHLWqtw7JqPjUXQ',
